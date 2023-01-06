@@ -1,0 +1,72 @@
+.container {
+    text-align: left;
+    width: 20%;
+    margin: auto;
+}
+
+.forward {
+    text-align: center;
+    vertical-align: middle;
+    background-color: #eae462; 
+    border: 2px solid;
+    width: 20%;
+    height: 30px;
+    margin: auto;
+    border-color: orange;
+}
+
+
+#button {
+    align-items: center;
+    background-color: #eae462; 
+    width: 100%;
+    height: 30px;
+    margin: auto;
+    
+}
+
+.new {
+    text-align: center;
+    color: lightslategrey
+}
+
+.create {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.foot {
+    text-align: center;
+    border-top: 2px solid black;
+    color: #0066c0;
+    text-decoration: none;
+}
+
+.email {
+    text-align: center;
+    width: 100%;
+    align-items: flex-start;
+
+}
+
+.password {
+    text-align: center;
+    width: 100%;
+    margin: auto; 
+    padding-bottom: 10px;
+}
+
+.bottom-links {
+    text-decoration: none;
+}
+
+.help {
+    color: #0066c0; 
+    margin: auto;
+    width: 19%;
+}
+
+.left {
+    width: 20%;
+    margin: auto;
+}
